@@ -1,5 +1,4 @@
 
-
 import Image from "next/image";
 import Link from "next/link";
 
@@ -7,7 +6,7 @@ import Link from "next/link";
 export default function Home() {
   return (
 
-  <div className="container mx-auto  ">
+  <div className="container mx-auto">
 
     <div className="container mx-auto p-4 md:p-8">
   <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -39,7 +38,7 @@ export default function Home() {
         <h3 className="text-primary font-bold">Drive Your Success with MyFastX</h3>
         <h1 className="text-xl md:text-2xl font-bold mb-4">Join Us as a Partner Driver</h1>
         <p className="text-gray-700 mb-6">
-          Are you a vehicle owner looking for new opportunities? Join MyFastX today and become part of a dynamic network of drivers. With us, you'll enjoy flexible work hours, competitive earnings, and the satisfaction of delivering smiles across the city.
+          Are you a vehicle owner looking for new opportunities? Join MyFastX today and become part of a dynamic network of drivers. With us, you &apos; ll enjoy flexible work hours, competitive earnings, and the satisfaction of delivering smiles across the city.
         </p>
        <Link href="/payment">
        <button className="bg-black text-white py-2 px-4 md:px-6 rounded-md">
@@ -160,7 +159,7 @@ export default function Home() {
       <p className="bg-bg w-[180px] p-2 text-center rounded-md">What Our Partners Say</p>
       <h2 className="text-2xl font-bold mb-4">Testimonials</h2>
       <p className='mb-4'>
-        At MyFastX, our commitment to excellence is reflected in the feedback from our valued customers. Here's what they have to say about their experiences with our quick and reliable delivery and logistics services.
+        At MyFastX, our commitment to excellence is reflected in the feedback from our valued customers. Here &apos; s what they have to say about their experiences with our quick and reliable delivery and logistics services.
       </p>
       <div className="flex space-x-4">
         <Image src="/care2.png" width={100} height={100} alt='car2' />
@@ -178,7 +177,7 @@ export default function Home() {
         </div>
       </div>
       <p className="text-gray-700 mb-4">
-        "Joining MyFastX has been a game-changer for me. The flexible hours and reliable income have made my life so much easier."
+        Joining MyFastX has been a game-changer for me. The flexible hours and reliable income have made my life so much easier.
       </p>
       <div className="flex mb-4">
         <span className="text-yellow-400">&#9733;</span>
@@ -210,7 +209,7 @@ export default function Home() {
   <span className="bg-bg py-2 px-4 rounded-lg">Join the MyFastX Community Today!</span>
   <h2 className="text-2xl font-bold mb-4 mt-4">Ready to Get Started?</h2>
   <p className='mb-4'>
-    Don't miss out on this incredible opportunity to be part of a leading delivery and logistics platform. 
+    Don&apos;t miss out on this incredible opportunity to be part of a leading delivery and logistics platform. 
     Sign up now for just <span className="text-primary font-semibold">Rs. 999</span> and start driving your way to success with MyFastX!
   </p>
   <button className="ml-2 px-4 py-2 bg-black text-white rounded-lg mb-4">Register Now</button>

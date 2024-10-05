@@ -29,7 +29,7 @@ const Landingpage = () => {
         <h3 className="text-green-500 font-bold">Drive Your Success with MyFastX</h3>
         <h1 className="text-2xl font-bold mb-4">Join Us as a Partner Driver</h1>
         <p className="text-gray-700 mb-6">
-          Are you a vehicle owner looking for new opportunities? Join MyFastX today and become part of a dynamic network of drivers. With us, you'll enjoy flexible work hours, competitive earnings, and the satisfaction of delivering smiles across the city.
+          Are you a vehicle owner looking for new opportunities? Join MyFastX today and become part of a dynamic network of drivers. With us, you&apos;ll enjoy flexible work hours, competitive earnings, and the satisfaction of delivering smiles across the city.
         </p>
         <button className="bg-black text-white py-2 px-6 rounded-md">
           Register now for just Rs. 999!
