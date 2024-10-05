@@ -87,7 +87,7 @@ export default function Home() {
   <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
     
    
-    <div className="space-y-8">
+    <div className="space-y-8 mx-5">
       <p className="bg-bg w-[150px]">How It Works </p>
       <h2 className="text-2xl font-bold mb-4">Simple Steps to Get Started</h2>
       
@@ -155,7 +155,7 @@ export default function Home() {
 <div className="flex flex-col md:flex-row items-center p-4">
   <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
     
-    <div className="hidden md:block">
+    <div className="hidden md:block mx-5">
       <p className="bg-bg w-[180px] p-2 text-center rounded-md">What Our Partners Say</p>
       <h2 className="text-2xl font-bold mb-4">Testimonials</h2>
       <p className='mb-4'>
@@ -203,9 +203,9 @@ export default function Home() {
 </div>
 
 
-<div className="container flex ">
-  <div className="grid grid-col-1 md:grid-cols-2">
-  <div className="">
+<div className="container flex  flex-col md:flex-row">
+  <div className="grid grid-col-1 md:grid-cols-2 gap-6 md:p-8 ">
+  <div className="mx-5">
   <span className="bg-bg py-2 px-4 rounded-lg">Join the MyFastX Community Today!</span>
   <h2 className="text-2xl font-bold mb-4 mt-4">Ready to Get Started?</h2>
   <p className='mb-4'>
