@@ -3,54 +3,6 @@ import React from 'react'
 
 const Landingpage = () => {
   return (
-//     <div classNameName='flex '>
-//         <div classNameName="flex-col w-[396px] h-[545px] bg-bg"> 
-//             <Image
-//             src='/truck-dLHB36Ze6b.png'
-//             width={292
-//             }
-//             height={219}
-//             alt="trukimg"
-//             />
-//             <div classNameName='items-center'>
-//                 <span classNameName=''>Welcome to MyFast</span>
-//                 <span classNameName='text-primary'>x</span>
-//                 <span classNameName='text-primary'>Partner</span>
-//             </div>
-//             <h3 classNameName='text-primary text-center'>Quick & Reliable Delivery and Logistics Solution</h3>
-//             <p>At MyFastX, we are revolutionizing the delivery and logistics industry by providing swift, dependable services to our clients. Our mission is to ensure every package reaches its destination on time, every time</p>
-
-//         </div>
-//         <div classNameName='flex-col w-[713px] h-[376] bg-bg'>
-//         <div classNameName="relative w-full bg- p-8 rounded-lg">
-            
-
-//   <div classNameName="w-full h-[158]"> 
-    
-
-// </div>
-//   <div className="absolute inset-0 bg-repeat bg-primary w-1 skew-y-6">
-    
-//   </div>
-//   <div classNameName="relative  p-8 rounded-lg ">
-//     <h3 classNameName="text-green-500 font-bold">Drive Your Success with MyFastX</h3>
-//     <h1 classNameName="text-2xl font-bold mb-4">Join Us as a Partner Driver</h1>
-//     <p classNameName="text-gray-700 mb-6">
-//       Are you a vehicle owner looking for new opportunities? Join MyFastX today and become part of a dynamic network of drivers. With us, you'll enjoy flexible work hours, competitive earnings, and the satisfaction of delivering smiles across the city.
-//     </p>
-//     <button classNameName="bg-black text-white py-2 px-6 rounded-md">
-//       Register now for just Rs. 999!
-//     </button>
-//   </div>
-// </div>
-
-//             <div classNameName='flex-row'>
-
-//             </div>
-
-//         </div>
-      
-//     </div>
 <div className="container mx-auto p-8">
  
   <div className="grid grid-row-3 grid-flow-col gap-8">
